@@ -1,4 +1,4 @@
- ,#include <stdio.h>
+ #include <stdio.h>
 
 struct Process {
     int pid, at, bt, pr, ct, tat, wt, rt, done;
